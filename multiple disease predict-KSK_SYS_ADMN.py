@@ -12,13 +12,13 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-diabetes_model = pickle.load(open("C:/Users/kevin/OneDrive/Documents/Multiple Diease Prediction System/Models/diabetes_model.sav", 'rb'))
+diabetes_model = pickle.load(open("C:/Users/kevin/Documents/multiple disease prediction/Models/diabetes_model.sav", 'rb'))
 
-breast_disease_model = pickle.load(open("C:/Users/kevin/OneDrive/Documents/Multiple Diease Prediction System/Models/breast_cancer_model.sav", 'rb'))
+breast_disease_model = pickle.load(open("C:/Users/kevin/Documents/multiple disease prediction/Models/breast_cancer_model.sav", 'rb'))
 
-heart_disease_model = pickle.load(open("C:/Users/kevin/OneDrive/Documents/Multiple Diease Prediction System/Models/heart_disease_model.sav", 'rb'))
+heart_disease_model = pickle.load(open("C:/Users/kevin/Documents/multiple disease prediction/Models/heart_disease_model.sav", 'rb'))
 
-parkinsons_model = pickle.load(open("C:/Users/kevin/OneDrive/Documents/Multiple Diease Prediction System/Models/parkinsons_model.sav", 'rb'))
+parkinsons_model = pickle.load(open("C:/Users/kevin/Documents/multiple disease prediction/Models/parkinsons_model.sav", 'rb'))
 
 
 # sidebar navi bar
