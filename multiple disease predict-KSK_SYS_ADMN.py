@@ -21,6 +21,7 @@ heart_disease_model = pickle.load(open("C:/Users/kevin/Documents/multiple diseas
 parkinsons_model = pickle.load(open("C:/Users/kevin/Documents/multiple disease prediction/Models/parkinsons_model.sav", 'rb'))
 
 
+
 # sidebar navi bar
 
 with st.sidebar:
