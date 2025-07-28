@@ -23,6 +23,9 @@ parkinsons_model = pickle.load(open("Models/parkinsons_model.sav", 'rb'))
 
 # sidebar navi bar
 
+st.sidebar.image("static/logod.png")
+
+
 with st.sidebar:
     selected = option_menu("Disease Menu",
                            

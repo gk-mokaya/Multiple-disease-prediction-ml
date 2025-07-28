@@ -1,5 +1,9 @@
 # Disease Prediction System
 
+### Author: gk-mokaya | kevinmokaya001@gmail.com | 0797252133
+
+### Demo url: https://mediscanmldiseaseprediction.streamlit.app/
+
 ## Overview
 
 This project is a comprehensive disease prediction system that allows users to predict the likelihood of various diseases based on specific input parameters. The system currently supports predictions for Diabetes, Breast Diseases, Heart Diseases, and Parkinson's Disease. The goal is to provide an easy-to-use interface for users to input their health data and receive predictions about potential diseases.
